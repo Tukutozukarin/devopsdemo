@@ -17,7 +17,7 @@ public class DevopsdemoApplication {
 
 		@RequestMapping("/hello")
 		public String hello() {
-			return "world";
+			return "hello world";
 		}
 
 	}
